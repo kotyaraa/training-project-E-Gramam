@@ -1,0 +1,34 @@
+
+.toolbar{
+    
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+
+    .fas ,
+    .photo-card{
+        margin:10px
+    }
+
+    .header-group{
+        margin-right: 10px;
+        display:flex;
+        align-items:center;
+        border: 1px solid #0000005d;
+        .search-icon{
+            width: 15px;
+        }
+    }
+
+}
+.icons-toolbar{
+    display:flex;
+}
+
+.eGramam-icon{
+
+margin-left: 10px;
+}
+.icon{
+    border-right: 2px solid #201d1d0c;
+}
